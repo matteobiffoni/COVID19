@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "811030255227",
+    "firebase_url": "https://covid19-c95a7.firebaseio.com",
+    "project_id": "covid19-c95a7",
+    "storage_bucket": "covid19-c95a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811030255227:android:f85f844426e418fc9a74de",
+        "android_client_info": {
+          "package_name": "com.biffodeveloper.covid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811030255227-judfq27tgdf5iolihkc5o91a9th27ek6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biffodeveloper.covid19",
+            "certificate_hash": "b5e5438834c4aeac309dfc6d605bdc8967cf50f0"
+          }
+        },
+        {
+          "client_id": "811030255227-7ji5hu6f50k6ha0ai601li12u42bfdp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwel4S7jalVzj8UPZ6ckNGvdpUbuB1WZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811030255227-7ji5hu6f50k6ha0ai601li12u42bfdp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

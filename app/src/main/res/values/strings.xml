@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">COVID19</string>
+    <string name="insert_phone_number">Inserisci numero di telefono</string>
+    <string name="verify">Verifica</string>
+    <string name="insert_code">Inserisci il codice ricevuto via SMS</string>
+    <string name="proceed">Procedi</string>
+    <string name="back">Indietro</string>
+    <string name="logout">Esci</string>
+    <string name="insert_name">Inserisci il tuo nome</string>
+    <string name="insert_surname">Inserisci il tuo cognome</string>
+    <string name="insert_birthdate">Inserisci la tua data di nascita</string>
+    <string name="confirm">Conferma</string>
+    <string name="not_acceptable_date">Devi essere maggiorenne</string>
+    <string name="supermarket">Supermercato</string>
+    <string name="drugstore">Farmacia</string>
+    <string name="tobacconist">Tabaccaio</string>
+    <string name="no_more_entrances">Hai esaurito gli ingressi %1$s</string>
+    <string name="remaining_accesses">Accessi rimanenti: %1$d</string>
+    <string name="heresthecode">Ecco il codice per entrare %1$s</string>
+</resources>
